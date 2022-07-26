@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31ee1862-67cf-492d-91ec-e7c931f8b497" name="Changes" comment="">
+    <list default="true" id="31ee1862-67cf-492d-91ec-e7c931f8b497" name="Changes" comment="соу ват кен ай  сей эксепт юр велкам">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -76,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658735153614</updated>
     </task>
+    <task id="LOCAL-00001" summary="соу ват кен ай  сей эксепт юр велкам">
+      <created>1658829670279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658829670279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="соу ват кен ай  сей эксепт юр велкам" />
+    <option name="LAST_COMMIT_MESSAGE" value="соу ват кен ай  сей эксепт юр велкам" />
   </component>
 </project>
